@@ -24,21 +24,14 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.56",
     "axios": "^0.21.0",
-    "gray-matter": "^4.0.2",
     "moment": "^2.29.1",
     "next": "^10.0.5",
     "next-connect": "^0.9.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-hook-form": "^6.12.2",
-    "remark": "^13.0.0",
-    "remark-gfm": "^1.0.0",
-    "remark-highlight.js": "^6.0.0",
-    "remark-html": "^13.0.1",
-    "remark-preset-lint-recommended": "^5.0.0",
     "use-dark-mode": "^2.3.1",
-    "validator": "^13.1.17",
-    "vfile-reporter": "^6.0.2"
+    "validator": "^13.1.17"
   },
   "devDependencies": {
     "@testing-library/dom": "^7.28.1",
